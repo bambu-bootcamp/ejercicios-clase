@@ -26,3 +26,4 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - [Jesus Mendoza Martinez](https://github.com/JsMendoza13)
 - Josue Duque Gutierrez
 - [Daniel Benitez Restrepo](https://github.com/da8y01)
+- [Alexander Durán](https://github.com/aduranok)
