@@ -10,7 +10,7 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - [Giovanny Salcedo](https://github.com/GioSalcedo)
 
 +Alexander Saldarriaga Vélez
--Carlos Mario Herrera Acevedo
+- [Carlos Mario Herrera Acevedo](https://github.com/soycarlosherrera/)
 
 -Jhon Edison Muñoz Banguero
 -John Alexander Ramirez Giraldo
@@ -20,8 +20,10 @@ LISTA DE ASISTENCIA PARA ESTE EJERCICIO:
 - [Daniel Pérez Vitola](https://github.com/dapevi1997)
 - Jonathan Marin Pavia
 - [Anderson Gomez Tobon](https://github.com/KitLuc)
-- Angel Andres Santana Valencia
+- Angel Andres Santana Valencia(https://github.com/andresk5)
 - Beatriz Elena Gutierrez
 - Andres felipe Carvajal
 - [Jesus Mendoza Martinez](https://github.com/JsMendoza13)
 - Josue Duque Gutierrez
+- [Daniel Benitez Restrepo](https://github.com/da8y01)
+- [Luis Enrique Guzman Quintero](https://github.com/Luenki)
