@@ -31,7 +31,7 @@ contract Stablecoin is ERC20 {
         _burn(msg.sender, _amount);
     }
 
-/*     function mantenerParidad() external {
+    function mantenerParidad() external {
         (, int256 assetValue, , , ) = assetValueFeed.latestRoundData();
         uint256 adjustedPeggedValue = uint256(assetValue);
         uint256 currentSupply = totalSupply();
@@ -44,7 +44,7 @@ contract Stablecoin is ERC20 {
             _burn(owner(), amountToBurn);
         }
         peggedValue = adjustedPeggedValue;
-    } */
+    } 
 
     function transfer(address recipient, uint256 amount) public virtual override returns (bool) {
         uint256 adjustedAmount = (amount * 1 ether) / peggedValue;
