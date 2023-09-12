@@ -25,7 +25,7 @@ contract StakingContract {
     function stake(uint _amount) external {
         require(_amount > 0, "El monto de staking debe ser mayor que cero");
         require(token.transferFrom(msg.sender, address(this), _amount), "Fallo al transferir tokens");
-        totalStaked += _amount;
+        totalStaked += _amount; //TLV total value locked address(this).balance
         stakedBalances[msg.sender] += _amount;
         lastClaimTime[msg.sender] = block.timestamp;
     }
